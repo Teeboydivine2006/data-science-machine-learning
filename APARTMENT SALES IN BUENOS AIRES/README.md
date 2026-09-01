@@ -116,11 +116,6 @@ portfolio copy of the workflow and reasoning.
 - Engineer a `price_per_m2` feature normalized by neighborhood
 - Add rooms/floor back in with proper imputation instead of dropping them outright
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
 
 *Second project in my Data Science / Machine Learning portfolio — see my
 [GitHub profile](https://github.com/<your-username>) for the rest.*
