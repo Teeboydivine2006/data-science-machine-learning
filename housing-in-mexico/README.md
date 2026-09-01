@@ -111,11 +111,6 @@ copy — WQU's own platform doesn't allow exporting course notebooks.
 - Try non-linear models (Random Forest, Gradient Boosting) to capture size × location interactions
 - Add amenity-level features (transit access, schools, crime rates) for a richer model
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
 
 *This is the first project in my Data Science / Machine Learning portfolio. More coming soon —
 see my [GitHub profile](https://github.com/<your-username>) for the rest.*
