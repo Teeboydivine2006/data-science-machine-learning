@@ -216,3 +216,44 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# --- Secrets & credentials (never commit these, ever) ---
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.yaml
+config.ini
+
+# --- Large / generated artifacts (bloat the repo, nothing to review) ---
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
