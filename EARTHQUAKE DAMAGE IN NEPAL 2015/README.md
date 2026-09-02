@@ -119,11 +119,5 @@ keep a portfolio copy of the workflow and reasoning.
 - Try SARIMA to capture daily/weekly seasonality explicitly
 - Add exogenous features (weather, traffic patterns) if available
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 *Third project in my Data Science / Machine Learning portfolio — see my
-[GitHub profile](https://github.com/<your-username>) for the rest.*
+[GitHub profile](https://github.com/Teeboydivine2006) for the rest.*
