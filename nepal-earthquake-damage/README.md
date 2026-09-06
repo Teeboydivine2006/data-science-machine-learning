@@ -168,12 +168,3 @@ or ethnicity) before being used to prioritize real-world aid or resources.
   discrimination before treating it as production-ready
 - Try gradient boosting (XGBoost / LightGBM) as a fourth comparison point
 - Extend the analysis across multiple districts instead of just one
-
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-*Fourth project in my Data Science / Machine Learning portfolio — see my
-[GitHub profile](https://github.com/<your-username>) for the rest.*
